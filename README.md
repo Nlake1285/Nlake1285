@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nlake1285
+- 👋 Hi, I’m @Zlake1285
 - 👀 I’m interested in many things, but on here I want to publish code/get better at coding + navigating and using GitHub
 - 🌱 I’m currently learning Computer Science at the University of Montana
 - 💞️ I’m looking to collaborate on any upcoming coding projects (If the assistance is allowed, that is)
