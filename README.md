@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any upcoming coding projects (If the assistance is allowed, that is)
 - 📫 How to reach me: Email me at zenith.lake@umconnect.umt.edu or Zlake1285@gmail.com
 - 😄 Pronouns: any/all. You can call me anything except late for dinner!
-- ⚡ Fun fact: My favorite color is this blue: R:137, G:207, B:240
+- ⚡ Fun fact: My favorite color is this blue: #89cff0
 
 <!---
 Nlake1285/Nlake1285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
